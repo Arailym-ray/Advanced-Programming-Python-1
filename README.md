@@ -8,4 +8,4 @@ Email: a.tleubayeva@astanait.edu.kz
 
 # Rules for the delivery of completed works
 1. Deadline for completing the task before the end of each week
-2. Send links from your repositories to the module
+2. Send links from your repositories to the moodle.astanait.edu.kz
