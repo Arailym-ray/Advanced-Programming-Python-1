@@ -16,6 +16,7 @@ password: Astana2022
 
 #Python 
 https://www.udemy.com/course/bestpython/learn/lecture/17327890?start=15#overview
+
 #Flask 
 https://www.udemy.com/course/python-flask-crud/learn/lecture/25647554?start=45#overview
 
