@@ -20,3 +20,5 @@ https://www.udemy.com/course/bestpython/learn/lecture/17327890?start=15#overview
 #Flask 
 https://www.udemy.com/course/python-flask-crud/learn/lecture/25647554?start=45#overview
 
+#Python - Developing Web Applications with Flask
+https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/Python3_Flask.html#zz-6.1
