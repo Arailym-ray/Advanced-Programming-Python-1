@@ -22,3 +22,7 @@ https://www.udemy.com/course/python-flask-crud/learn/lecture/25647554?start=45#o
 
 #Python - Developing Web Applications with Flask
 https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/Python3_Flask.html#zz-6.1
+
+
+#Final project topics
+https://astanait-my.sharepoint.com/:w:/g/personal/a_tleubayeva_astanait_edu_kz/ER1G6IsmrfhNulTkMXIz6vwBxEfnq9gm56Oky_VCW_bg9w?e=ybqeJo
