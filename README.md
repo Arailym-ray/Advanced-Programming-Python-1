@@ -25,4 +25,4 @@ https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/Python3_Flask.htm
 
 
 #Final project topics
-https://astanait-my.sharepoint.com/:w:/g/personal/a_tleubayeva_astanait_edu_kz/ER1G6IsmrfhNulTkMXIz6vwBxEfnq9gm56Oky_VCW_bg9w?e=ybqeJo
+https://docs.google.com/document/d/1O3Yf1cf6mUmHwGsiyTBa4OWYM_l6gBmx/edit?usp=sharing&ouid=109931758056616429055&rtpof=true&sd=true
